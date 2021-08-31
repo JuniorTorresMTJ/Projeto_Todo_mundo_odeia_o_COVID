@@ -5,15 +5,21 @@ Projeto de Análise de Dados do Hospital Sírio Libanês
 <img src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/Titulo_projeto.png" min-width="300px" max-width="200px" width="750px" > 
 </p>
  <p align= "center">
-<img src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/Banner.png" min-width="300px" max-width="200px" width="450px" >
+<img src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/Banner.png" min-width="300px" max-width="200px" width="450px" ><br>
+ <br>E aí, carinha que mora logo ali? Passa uma estrela! 
 </p>
 
 ### **OBJETIVO** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> 
 ***
-Prever quais pacientes precisarão ser admitidos na unidade de terapia intensiva e assim, definir qual a necessidade de leitos de UTI do hospital, a partir dos dados clínicos individuais disponíveis.
+Prever quais pacientes precisarão ser admitidos na UTI e assim, definir qual a necessidade de leitos de UTI do hospital, a partir dos dados clínicos individuais disponíveis.
 
-### **ESCOPO** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> 
+### **NOTEBOOKS** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> 
 ***
+Deixar todo o projeto em apenas um notebook ficaria com um tamanho grande e cansativo a leitura do projeto, portanto foi dividido em 3, sendo eles:
+
+* [Limpeza da Base](https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/notebook/Projeto_Todo_Mundo_Odeia_o_COVID_EDA.ipynb)
+* [Análise Exploratória](https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/notebook/Projeto_Todo_Mundo_Odeia_o_COVID_Limpeza.ipynb)
+* [Modelo de Aprendizado de Máquina](https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/notebook/Projeto_Todo_Mundo_Odeia_o_COVID_ML.ipynb)
 <!--- 
 “Sabe quando as pessoas falam sobre *HIV*? Uma vez por ano, no Dia Mundial da Luta Contra a *Aids*”, resume a professora de inglês Aurea Carolina Coelho More, que convive com o vírus há mais de *12 anos*.
 
@@ -25,42 +31,20 @@ Você acha que ***HIV/AIDS*** está relacionado a homossexualidade? ou que ating
 
 Vale ressaltar que o estudo foi realizado levando em consideração os ***números absolutos*** de novos casos de ***HIV/AIDS***, para esse estudo não foi analisado a ***proporção*** entre as populações, tendo em vista que analisando a ***proporção das populações*** seria a forma ***correta*** de analisar os dados. 
 -->
- ### **SOBRE O PROJETO** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> 
-***
-<!---
-[Projeto PIC](xxx)
 
-<div align = "left">
-O projeto está estruturado da seguinte forma: <br>
+### **TECNOLOGIAS** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> 
+***
+<div align = "left"> 
+ Foram utilizados as seguintes bibliotecas da linguagem de programação python:
  
-   * Objetivo
-   * Introdução
-      * SUS - Sistema Único de Saúde
-      * Dados Abertos
-      * AIDS = HIV?
-         * Indectável = Intransmissível
-         * Linha do tempo do HIV/AIDS
-   * Importação das Bibliotecas
-   * Carregamento das Bases
-   * Limpeza das Bases
-   * Levantamento de Hipóteses
-   * Criação das Visualizações
-   * Conclusão
+ 
+   * Pandas
+   * Numpy
+   * Matplotlib
+   * Seaborn
+   * Sckitlearn
+   * Google.colab
 </div>
--->
-
-### **HIPÓTESES** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> 
-***
-<!---
-1.   Em 2019 teve mais casos de HIV em homossexuais do que em heterossexuais.
-2.   Na década de 90 os Homossexuais foram os que mais  adquiriram HIV/AIDS.
-3.   A maioria dos casos de HIV/AIDS são em pessoas pardas.
-4.   Os novos casos de HIV/AIDS ocorrem mais em pessoas com 1° a 4 ° série incompletas.
-5.   Pessoas do sexo masculino adquirem mais HIV que pessoas do sexo feminino.
-6.   Jovens de 20-34 anos são os que mais são contaminados pelos vírus do HIV.
-7.   Menos Pessoas morrem de AIDS comparando com a quantidade de óbitos em 2008.
-8.   Os gastos com o Tratamento de HIV/AIDS diminuiram 20% desde 2008.
--->
 
 ### **CONCLUSÕES** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> 
 ***
@@ -86,7 +70,7 @@ Qualquer feedback, elogio ou sugestão de melhoria eu ficaria muito grato!
 </p>
 
 
-### **BASES** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> 
+### **DADOS** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> 
 ***
 <!---
 *   **df_escolaridade** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por escolariadade por ano. <BR>
@@ -99,6 +83,7 @@ Qualquer feedback, elogio ou sugestão de melhoria eu ficaria muito grato!
 *   **df_obitos** = Conjunto de dados que possui os dados de quantidade mortes com Tratamento de HIV/AIDS
 
 -->
+
 ### **CONTATO** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> 
 ***
 <p align="center"> <a  href="https://www.linkedin.com/in/marivaldotorres/">

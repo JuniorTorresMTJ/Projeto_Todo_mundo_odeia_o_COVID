@@ -43,7 +43,7 @@ Deixar todo o projeto em apenas um notebook ficaria com um tamanho grande e cans
 </p>
 
 
-Mesmo conseguindo 79% de F1-score, ainda não é o suficiente pensando na saúde, mas como podemos ver que esse é um bom caminho, mas na atual situação do modelo, ainda precisa de um profissional que melhor julgará os pacientes.
+Mesmo conseguindo 79% de F1-score, ainda não é o suficiente pensando na saúde, mas como podemos ver que esse é um bom caminho, mas na atual situação do modelo, ainda precisaria de um profissional para realizar um melhor julgamento dos pacientes.
 
 Mas não acaba por aqui! Ainda tem muitas coisas para fazer nesse projeto, como:
 

@@ -20,17 +20,6 @@ Deixar todo o projeto em apenas um notebook ficaria com um tamanho grande e cans
 * [Limpeza da Base](https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/notebook/Projeto_Todo_Mundo_Odeia_o_COVID_EDA.ipynb)
 * [Análise Exploratória](https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/notebook/Projeto_Todo_Mundo_Odeia_o_COVID_Limpeza.ipynb)
 * [Modelo de Aprendizado de Máquina](https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/notebook/Projeto_Todo_Mundo_Odeia_o_COVID_ML.ipynb)
-<!--- 
-“Sabe quando as pessoas falam sobre *HIV*? Uma vez por ano, no Dia Mundial da Luta Contra a *Aids*”, resume a professora de inglês Aurea Carolina Coelho More, que convive com o vírus há mais de *12 anos*.
-
-  
-Ouvir/ler deu positivo, dependendo do seu repertório,  suponho que você deve estar pensando que eu estou falando de gravidez né? Para muitos é uma benção e para outros um Deus me livre, mas não, mais ***900 mil*** pessoas vivem com ***HIV no Brasil*** e quando essas pessoas fizeram o teste elas ouviram: ***Deu Positivo***. 
-
-
-Você acha que ***HIV/AIDS*** está relacionado a homossexualidade? ou que atinge só homossexuais? nesse projeto quero desmistificar esse pensamento dos anos 80, igual a imagem acima, como também, mostrar a importância do SUS no tratamento dos portadores de ***HIV/AIDS do Brasil*** através de dados abertos.
-
-Vale ressaltar que o estudo foi realizado levando em consideração os ***números absolutos*** de novos casos de ***HIV/AIDS***, para esse estudo não foi analisado a ***proporção*** entre as populações, tendo em vista que analisando a ***proporção das populações*** seria a forma ***correta*** de analisar os dados. 
--->
 
 ### **TECNOLOGIAS** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> 
 ***
@@ -50,17 +39,21 @@ Vale ressaltar que o estudo foi realizado levando em consideração os ***númer
 ***
 
  <p align= "center">
-<img src="https://media3.giphy.com/media/ihTDYfbBNYq0LWwdKy/giphy.gif?cid=ecf05e47gmrfnihyrmvbnkuz7bnbqukxh9qm7ha30x8u3kgl&rid=giphy.gif&ct=g" min-width="300px" max-width="200px" width="200px" >
+<img src="https://c.tenor.com/2Qdtr5uLIz0AAAAC/tonya-i-dont-need-this.gif" min-width="300px" max-width="200px" width="500px" >
 </p>
-<!---
 
-Após toda a análise dos dados, podemos concluir que no ***começo*** houve um ***grande aumento*** nos casos ***HIV/AIDS***, mas desde meados de ***2013*** esse número de casos vem ***diminuindo graças*** a ***disponibilização do tratamento para todos***, vimos também que em ***2019*** o único estado brasileiro com ***mais casos*** em pessoas ***homossexuais*** do que em ***heterossexuais*** foi no ***Distrito Federal*** e em todos os anos desde 1990 os heteros são os que mais adquirem o diagnóstico de soropositivo, ***desconsideranto a proporção entre a popopulação hetero e a população homossexual***, apenas em valor absoluto. <br><br>
-Antes, os ***brancos*** eram o que mais contraiam o ***HIV/AIDS***, mas depois de ***2013*** esse cenário mudou, os ***pardos*** começaram a ter mais ***novos casos novos***. Outra mudança foi de mais casos em pessoas com o ***ensino médio completo***, antes tinham mais casos em ***ensino fundamental incompleto***, mostrando que a ***conscientização*** nas escolas não está o suficiente, precisamos de mais campanhas, palestras e ensinamentos nas escolas brasileiras. <br><br>
-Os homens sempre foram as maiores vítimas do ***HIV***, pois desde ***1980*** sempre foi o sexo que teve mais casos.  <br><br>
-Já analisando os dados pela faixa etária, vemos que o grande número de casos está entre ***20-49 anos***, é a fase da vida que a vida sexual se inicia e perdura por muito tempo ativa, onde se arriscam mais e ***não usam preservativos***. <br><br>
- Algo positivo de apontar é que temos menos mortes no tratamento do ***HIV/AIDS***, pois em ***2008*** tinhamos ***4381 mortes*** e já em ***2019 tivemos 3058 mortes***, uma diminuição em ***30%***, já os gastos com o tratamento de ***HIV/AIDS***, em 2008 para 2009 teve um grande aumento, mas nos últimos anos os ***gastos se manteve praticamente estáveis***, pois as pessoas soropositivas sempre terão o diagnóstico, pois ainda não temos a cura. <br><br>
-Portanto, graças ao ***SUS*** podemos ver que a os casos de ***HIV/AIDS*** vem ***diminuindo muito***, pois é um privilégio todos terem o direito ao ***tratamento e coquetéis*** de graça, fora outros ***tratamentos caros, vacinas, remédios, consultas etc***, pois pessoas de ***baixa renda*** não conseguiriam pagar por esses benefícios ou contratar um convênio. Então, só podemos agradecer e dizer:  **Viva ao SUS!**
--->
+
+Mesmo conseguindo 79% de F1-score, ainda não é o suficiente pensando na saúde, mas como podemos ver que esse é um bom caminho, mas na atual situação do modelo, ainda precisa de um profissional que melhor julgará os pacientes.
+
+Mas não acaba por aqui! Ainda tem muitas coisas para fazer nesse projeto, como:
+
+* Balancear as colunas;
+* Testar novos modelos;
+* Realizar mais tratamento dos dados;
+* Normalizar os dados;
+* Padronizar os dados;
+* Prever outras variáveis;
+
 <p align= "center">
 <img src="https://media4.giphy.com/media/8aoHWnOXnCJd3Yrr55/giphy.gif?cid=ecf05e47ojh5x4jomonpipzdfuqmur0yyl53rzgxc21h3h05&rid=giphy.gif&ct=s" min-width="300px" max-width="200px" width="200px" >
 </p>
@@ -72,17 +65,7 @@ Qualquer feedback, elogio ou sugestão de melhoria eu ficaria muito grato!
 
 ### **DADOS** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> 
 ***
-<!---
-*   **df_escolaridade** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por escolariadade por ano. <BR>
-*   **df_etária** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por faixa etária por ano. <BR>
-*   **df_raca** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por por raça. <BR>
-*   **df_sexo** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por sexo por ano.<BR>
-*   **df_sexualidade** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por orientação sexual e estado.<BR>
-*   **df_sex_evo** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por orientação sexual por ano.<BR>
-*   **df_gastos** = Conjunto de dados que possui os dados de quantidade de gastos em tratamento de HIV/AIDS por ano.
-*   **df_obitos** = Conjunto de dados que possui os dados de quantidade mortes com Tratamento de HIV/AIDS
-
--->
+Dados limpos: [Notebook](https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/notebook/Projeto_Todo_Mundo_Odeia_o_COVID_Limpeza.ipynb)
 
 ### **CONTATO** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> 
 ***
@@ -111,4 +94,17 @@ Qualquer feedback, elogio ou sugestão de melhoria eu ficaria muito grato!
 ### **FONTES** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> 
 ***
 <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> Fonte dos Dados: [Kaggle](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19)
+
+### **AGRADECIMENTOS** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> 
+***
+Esse é o projeto final do Bootcamp de Data Science Aplicada da Alura, algo muito importante para minha carreira e aspirações!
+
+Aproveito para agradecer todos os instrutores do bootcamp e todos os que participaram diretamente ou indiretamente para que esse curso seja realizado. 
+
+Gostaria de deixar meu agradecimento para minhas novas amigas que me ajudaram durante todo o caminho: [Carolina Dias](https://www.linkedin.com/in/carodias/) e [Valquíria Alencar](https://www.linkedin.com/in/valquiria-alencar/)
+
+Por fim agradeço a toda equipe do Alura por terem acreditado no meu potencial e terem me dado uma bolsa 100% para realizar esse Bootcamp maravilhoso.
+
+
+
 

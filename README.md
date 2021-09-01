@@ -110,10 +110,5 @@ Qualquer feedback, elogio ou sugestão de melhoria eu ficaria muito grato!
 
 ### **FONTES** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> 
 ***
-<!---
- <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> Alura: [Link](https://www.alura.com.br/)
+<img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> Fonte dos Dados: [Kaggle](https://www.kaggle.com/S%C3%ADrio-Libanes/covid19)
 
-<img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> Fonte dos Dados: [DATASUS](http://www2.datasus.gov.br/DATASUS/index.php?area=0202&id=11633&VObj=http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sih/cnv/qi)
-
-<img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> Fonte dos Dados: [AIDS.GOV](http://www2.aids.gov.br/cgi/deftohtm.exe?tabnet/br.def)
--->

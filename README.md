@@ -70,7 +70,7 @@ Dados limpos: [Notebook](https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_o
 ### **CONTATO** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> 
 ***
 <p align="center"> <a  href="https://www.linkedin.com/in/marivaldotorres/">
-    <img alt="Junior Torres" width="250px"  src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/Perfil.png" />
+    <img alt="Junior Torres" width="250px"  src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/Jr_roxo.png" />
   </a>
  </p>
 

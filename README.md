@@ -17,8 +17,8 @@ Prever quais pacientes precisarão ser admitidos na UTI e assim, definir qual a 
 ***
 Deixar todo o projeto em apenas um notebook ficaria com um tamanho grande e cansativo a leitura do projeto, portanto foi dividido em 3, sendo eles:
 
-* [Limpeza da Base](https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/notebook/Projeto_Todo_Mundo_Odeia_o_COVID_EDA.ipynb)
-* [Análise Exploratória](https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/notebook/Projeto_Todo_Mundo_Odeia_o_COVID_Limpeza.ipynb)
+* [Limpeza da Base](https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/notebook/Projeto_Todo_Mundo_Odeia_o_COVID_Limpeza.ipynb)
+* [Análise Exploratória](https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/notebook/Projeto_Todo_Mundo_Odeia_o_COVID_EDA.ipynb)
 * [Modelo de Aprendizado de Máquina](https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/notebook/Projeto_Todo_Mundo_Odeia_o_COVID_ML.ipynb)
 
 ### **TECNOLOGIAS** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_Todo_mundo_odeia_o_COVID/blob/main/img/coronavirus.png" /> 
